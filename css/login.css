@@ -1,0 +1,101 @@
+
+#mes{
+	margin: 0 auto;
+	background-color: white;
+	width: 80%;
+	height: 80%;
+	font-family: Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
+	
+}
+#mes .one
+{
+	width: 40%;
+	height: auto;
+	padding: 20px;
+}
+
+#mes .one p
+{
+	color: #C0C0C0;
+	text-align: left;
+}
+
+#mes .two{
+	width: 40%;
+	padding: 20px;
+	float: left;
+}
+#mes .menubar{
+	height: auto;
+	background-color: coral;
+}
+#mes .menubar li{
+	list-style: none;
+	display: inline;
+	float: left;
+	padding: 20px;
+}
+a{
+	text-decoration: none;
+}
+#mes .two{
+	float: right;
+	width: 40%;
+	height: auto;
+}
+
+#mes p{
+	color: #C0C0C0;
+	text-align: left;
+}
+#mes .two .first{
+	border: 0px solid #f5f5f5;
+	background-color: #f5f5f5;
+	border-radius: 10px 10px;
+	width: 300px;
+	height: 36px;
+
+}
+#mes .two .second{
+	border: 0px solid #f5f5f5;
+	background-color: #f5f5f5;
+	border-radius: 10px 10px;
+	width: 300px;
+	height: 36px;
+}
+#mes .two .third{
+	border: 1px; 
+	border-style: solid;
+	border-color:#097eff;
+	background-color: #097eff;
+	border-radius: 24px 24px;
+	height: 40px;
+	width: 80px;
+	color: white;
+	text-align: center;
+}
+#mes .two .third:hover{
+	border-color: #6699FF;
+	background-color: #6699FF;
+	
+}
+#mes .two .fourth{
+	color: #C0C0C0;
+	text-align: left;
+	font-size: 14px;
+}
+#mes .two .fifth{
+	color: gray;
+	display: inherit;
+	text-decoration: none;
+
+}
+#mes .two .fifth:hover{
+	text-decoration: underline;
+}
+
+
+
+
+
+
